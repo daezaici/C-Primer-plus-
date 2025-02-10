@@ -1,2 +1,2 @@
-﻿  3.6.cpp
-  Project1.vcxproj -> D:\C编程\Project1\x64\Debug\Project1.exe
+﻿  4.6.cpp
+D:\C编程\Project1\Project1\4.6.cpp(11,20): error C2065: “ch”: 未声明的标识符
