@@ -142,11 +142,19 @@
     <ClCompile Include="3.8.cpp" />
     <ClCompile Include="3.9.cpp" />
     <ClCompile Include="4.1.cpp" />
+    <ClCompile Include="4.10.cpp" />
+    <ClCompile Include="4.11.cpp" />
+    <ClCompile Include="4.12.cpp" />
+    <ClCompile Include="4.13.cpp" />
+    <ClCompile Include="4.15.cpp" />
     <ClCompile Include="4.2.cpp" />
     <ClCompile Include="4.3.cpp" />
     <ClCompile Include="4.4.cpp" />
     <ClCompile Include="4.5.cpp" />
     <ClCompile Include="4.6.cpp" />
+    <ClCompile Include="4.7.cpp" />
+    <ClCompile Include="4.8.cpp" />
+    <ClCompile Include="4.9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
