@@ -99,5 +99,23 @@
     <ClCompile Include="4.15.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4.17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.18.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.19.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.20.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.21.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.22.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
