@@ -154,6 +154,8 @@
     <ClCompile Include="4.20.cpp" />
     <ClCompile Include="4.21.cpp" />
     <ClCompile Include="4.22.cpp" />
+    <ClCompile Include="4.23.cpp" />
+    <ClCompile Include="4.24.cpp" />
     <ClCompile Include="4.3.cpp" />
     <ClCompile Include="4.4.cpp" />
     <ClCompile Include="4.5.cpp" />
