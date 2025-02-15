@@ -109,6 +109,9 @@
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
+    <PostBuildEvent>
+      <Command>call "$(ProjectDir)auto-push.bat"</Command>
+    </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
@@ -169,7 +172,11 @@
     <ClCompile Include="5.12.cpp" />
     <ClCompile Include="5.13.cpp" />
     <ClCompile Include="5.14.cpp" />
+    <ClCompile Include="5.15.cpp" />
+    <ClCompile Include="5.17.cpp" />
+    <ClCompile Include="5.18.cpp" />
     <ClCompile Include="5.2.cpp" />
+    <ClCompile Include="5.20.cpp" />
     <ClCompile Include="5.3.cpp" />
     <ClCompile Include="5.4.cpp" />
     <ClCompile Include="5.5.cpp" />
@@ -178,6 +185,10 @@
     <ClCompile Include="5.8.1.cpp" />
     <ClCompile Include="5.8.cpp" />
     <ClCompile Include="5.9.cpp" />
+    <ClCompile Include="6.1.cpp" />
+    <ClCompile Include="6.2.cpp" />
+    <ClCompile Include="6.3.cpp" />
+    <ClCompile Include="6.4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
