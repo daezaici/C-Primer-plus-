@@ -110,7 +110,8 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
     <PostBuildEvent>
-      <Command>call "$(ProjectDir)auto-push.bat"</Command>
+      <Command>
+      </Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -173,6 +174,7 @@
     <ClCompile Include="5.13.cpp" />
     <ClCompile Include="5.14.cpp" />
     <ClCompile Include="5.15.cpp" />
+    <ClCompile Include="6.16.cpp" />
     <ClCompile Include="5.17.cpp" />
     <ClCompile Include="5.18.cpp" />
     <ClCompile Include="5.2.cpp" />
@@ -186,9 +188,29 @@
     <ClCompile Include="5.8.cpp" />
     <ClCompile Include="5.9.cpp" />
     <ClCompile Include="6.1.cpp" />
+    <ClCompile Include="6.10.cpp" />
+    <ClCompile Include="6.11.cpp" />
+    <ClCompile Include="6.12.cpp" />
+    <ClCompile Include="6.13.cpp" />
+    <ClCompile Include="6.14.cpp" />
+    <ClCompile Include="6.17.cpp" />
     <ClCompile Include="6.2.cpp" />
     <ClCompile Include="6.3.cpp" />
     <ClCompile Include="6.4.cpp" />
+    <ClCompile Include="6.5.cpp" />
+    <ClCompile Include="6.6.cpp" />
+    <ClCompile Include="6.7.cpp" />
+    <ClCompile Include="6.8.cpp" />
+    <ClCompile Include="6.9.cpp" />
+    <ClCompile Include="7.1.cpp" />
+    <ClCompile Include="7.2.cpp" />
+    <ClCompile Include="7.3.cpp" />
+    <ClCompile Include="7.4.cpp" />
+    <ClCompile Include="7.5.cpp" />
+    <ClCompile Include="7.6.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ceshi.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

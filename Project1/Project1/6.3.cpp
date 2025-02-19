@@ -16,5 +16,6 @@
 //			cout << Fave << " is right!\n";
 //	} while (n != Fave);
 //	
+//
 //	return 0;
 //}
