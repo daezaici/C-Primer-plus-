@@ -203,11 +203,23 @@
     <ClCompile Include="6.8.cpp" />
     <ClCompile Include="6.9.cpp" />
     <ClCompile Include="7.1.cpp" />
+    <ClCompile Include="7.10.cpp" />
+    <ClCompile Include="7.11.cpp" />
+    <ClCompile Include="7.12.cpp" />
+    <ClCompile Include="7.13.cpp" />
+    <ClCompile Include="7.14.cpp" />
+    <ClCompile Include="7.15.cpp" />
+    <ClCompile Include="7.16.cpp" />
+    <ClCompile Include="7.17.cpp" />
     <ClCompile Include="7.2.cpp" />
     <ClCompile Include="7.3.cpp" />
     <ClCompile Include="7.4.cpp" />
     <ClCompile Include="7.5.cpp" />
     <ClCompile Include="7.6.cpp" />
+    <ClCompile Include="7.7.cpp" />
+    <ClCompile Include="7.8.cpp" />
+    <ClCompile Include="7.81.cpp" />
+    <ClCompile Include="7.9.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="ceshi.txt" />
